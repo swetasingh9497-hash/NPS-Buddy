@@ -9,7 +9,7 @@ export default function ScoreCircle({ score, risk }: Props) {
       <div className="text-4xl font-bold text-blue-900">
         {score}%
       </div>
-      <div className="text-gray-600 mt-2">
+      <div className="text-gray-900 mt-2">
         Retirement Readiness
       </div>
       <div className="text-yellow-600 font-semibold">

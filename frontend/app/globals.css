@@ -24,3 +24,30 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* 🔥 UPDATED Slide Animation */
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+.animate-slideUp {
+  animation: slideUp 0.3s ease-out;
+}
+
+/* 🌙 Theme Background Control */
+html.light {
+  background-color: #F8FAFC;
+}
+
+html.dark {
+  background-color: #0F172A;
+}
+
+html {
+  scroll-behavior: smooth;
+}
