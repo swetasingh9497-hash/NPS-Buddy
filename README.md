@@ -1,33 +1,43 @@
 # NPS Buddy – AI Pension Copilot
 
-NPS Buddy is an AI-powered pension engagement platform designed to improve awareness, participation, and long-term financial planning under the National Pension System (NPS).
+NPS Buddy is an AI-powered pension engagement platform designed to simplify National Pension System (NPS) decisions, increase youth participation, and provide personalized retirement planning guidance.
 
-Developed for the PFRDA Hackathon by Team Obsidian Circle.
+Developed for the **PFRDA Hackathon** by Team Obsidian Circle.
 
 ---
 
 ## Problem Statement
 
-Pension adoption among youth and informal sector workers remains low due to complex procedures, limited awareness, and lack of personalized financial guidance. Existing platforms provide information but fail to encourage consistent participation.
+Pension adoption among youth and informal sector workers remains low due to:
+
+- Complex onboarding procedures
+- Limited awareness of long-term benefits
+- Lack of personalized financial guidance
+- Static, information-heavy pension portals
+
+Most existing platforms provide information but fail to encourage **consistent participation and informed decision-making**.
 
 ---
 
 ## Our Solution
 
-NPS Buddy acts as an intelligent pension copilot that simplifies pension planning through personalized guidance, intuitive workflows, and behavioral engagement mechanisms.
+NPS Buddy acts as an intelligent pension copilot that:
 
-The platform transforms static pension portals into interactive decision-support systems.
+- Simplifies pension planning
+- Provides personalized contribution guidance
+- Visualizes long-term retirement outcomes
+- Encourages consistent saving behavior
+
+The platform transforms traditional pension portals into an **interactive decision-support system** tailored for young and first-time investors.
 
 ---
 
-## Current Development Status
+## How It Works
 
-✅ Frontend prototype completed  
-🚧 AI recommendation engine (Planned)  
-🚧 Backend integration (Planned)  
-🚧 Contribution simulation module (Planned)
-
-This repository currently contains the frontend implementation showcasing user experience and workflow design.
+1. The user enters basic financial details such as age, income, and savings goals.
+2. The system evaluates contribution capacity and retirement horizon.
+3. A recommended NPS contribution strategy is generated.
+4. The dashboard visualizes projected retirement outcomes and savings growth.
 
 ---
 
@@ -42,56 +52,121 @@ This repository currently contains the frontend implementation showcasing user e
 
 ---
 
-## Tech Stack
+## Current Development Status
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React
+✅ Frontend prototype completed  
+🚧 AI recommendation engine in development  
+🚧 Backend integration under construction  
+🚧 Contribution simulation module in progress  
 
-**Planned Backend**
-- Python / Node.js
-- Machine Learning Models
-- REST APIs
+This repository currently contains the **frontend implementation** showcasing user experience and workflow design.
 
 ---
 
-## Proposed System Architecture
+## Tech Stack
 
-User → Frontend Interface → AI Engine → Pension Insights → Dashboard
+### Frontend
+- React
+- HTML
+- CSS
+- JavaScript
+
+### Backend (Planned)
+- Python / Node.js
+- REST APIs
+- Machine Learning models for personalization
+
+---
+
+## System Architecture
+
+```
+User Input
+   ↓
+Frontend Interface (React)
+   ↓
+AI Recommendation Engine
+   ↓
+Contribution Strategy & Insights
+   ↓
+User Dashboard
+```
 
 ---
 
 ## Screenshots
 
-(Add frontend screenshots here)
+*(Add screenshots inside a `/docs/screenshots` folder and link them here)*
+
+Example:
+
+```
+docs/screenshots/dashboard.png
+docs/screenshots/contribution.png
+docs/screenshots/guidance.png
+```
 
 ---
 
-## Team – Obsidian Circle
+## Getting Started
 
-We are a team of five second-year Data Science students building AI-driven financial solutions for pension engagement.
+### Prerequisites
+- Node.js (v18 or higher)
+- npm
 
-Team Members:
-- Sweta Singh
-- Member 2
-- Member 3
-- Member 4
-- Member 5
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/swetasingh9497-hash/NPS-Buddy.git
+cd NPS-Buddy
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Start the development server
+```bash
+npm start
+```
+
+4. Open in browser  
+http://localhost:3000
 
 ---
 
 ## Future Roadmap
 
-- AI-based personalization
+- AI-based personalized pension strategies
 - NPS contribution simulator
 - Multilingual support
-- Behavioral nudges
+- Behavioral nudges for consistent saving
 - Secure authentication system
+- Integration with official NPS APIs
+
+---
+
+## Team – Obsidian Circle
+
+A team focused on building AI-driven financial solutions to improve pension engagement and long-term financial security.
+
+**Team Members**
+- Sweta Singh
+- Vidhi Pandey
+- Twisha Mishra
+- Tapasya
+- Vaibhav Mishra
 
 ---
 
 ## Project Status
 
-🚧 Under Active Development for PFRDA Hackathon
+🚧 Under active development for the PFRDA Hackathon
+
+---
+
+## License
+
+This project is released under the MIT License.
