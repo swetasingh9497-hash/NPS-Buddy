@@ -96,15 +96,17 @@ User Dashboard
 
 ## Screenshots
 
-*(Add screenshots inside a `/docs/screenshots` folder and link them here)*
+### Dashboard
+![Dashboard](docs/screenshots/dashboard.jpeg)
 
-Example:
+### Retirement Simulator
+![Simulator](docs/screenshots/simulator.jpeg)
 
-```
-docs/screenshots/dashboard.png
-docs/screenshots/contribution.png
-docs/screenshots/guidance.png
-```
+### AI Assistant
+![AI Chat](docs/screenshots/chat.jpeg)
+
+### User Profile
+![Profile](docs/screenshots/profile.jpeg)
 
 ---
 
