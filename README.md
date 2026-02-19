@@ -83,14 +83,13 @@ This repository currently contains the **frontend implementation** showcasing us
 ```
 User Input
    ↓
-Frontend Interface (React)
+React Frontend
    ↓
-AI Recommendation Engine
+Financial Logic & AI Recommendation Module
    ↓
-Contribution Strategy & Insights
+Contribution Strategy & Retirement Insights
    ↓
 User Dashboard
-```
 
 ---
 
