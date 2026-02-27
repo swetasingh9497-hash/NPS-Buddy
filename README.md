@@ -96,17 +96,16 @@ User Dashboard
 ## Screenshots
 
 ### Dashboard
-![Dashboard](./docs/screenshots/dashboard.jpeg)
+![Dashboard](https://github.com/swetasingh9497-hash/NPS-Buddy/blob/main/docs/screenshots/dashboard.jpeg?raw=true)
 
 ### Retirement Simulator
-![Simulator](./docs/screenshots/simulator.jpeg)
+![Simulator](https://github.com/swetasingh9497-hash/NPS-Buddy/blob/main/docs/screenshots/simulator.jpeg?raw=true)
 
 ### AI Assistant
-![AI Chat](./docs/screenshots/chat.jpeg)
+![AI Chat](https://github.com/swetasingh9497-hash/NPS-Buddy/blob/main/docs/screenshots/chat.jpeg?raw=true)
 
 ### User Profile
-![Profile](./docs/screenshots/profile.jpeg)
-
+![Profile](https://github.com/swetasingh9497-hash/NPS-Buddy/blob/main/docs/screenshots/profile.jpeg?raw=true)
 ---
 
 ## Getting Started
